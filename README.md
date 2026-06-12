@@ -1,6 +1,6 @@
 # Hi Fellow Devs 👋
 
-I´m Víctor Ramos Manzano, an App/Full-Stack Developer Junior from Madrid, Spain.
+I´m Víctor Ramos Manzano, an App/Full-Stack Developer from Madrid, Spain.
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason I made a change in my life and decided to focus on working in what I am passionate about: programming languages and systems.
 
 ![image](https://user-images.githubusercontent.com/91912284/142745222-28d59ab5-6d6a-4525-af8f-5f27936c0ac2.png)
